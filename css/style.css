@@ -1,0 +1,43 @@
+.divGeral {
+  display: flex;
+}
+
+.add {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: rgb(6, 85, 95);
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.divPaises,
+.divPaisesFav {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.divUnidade {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.liUnidade {
+  margin-bottom: 10px;
+}
+
+.li2 {
+  margin-bottom: 5px;
+}
